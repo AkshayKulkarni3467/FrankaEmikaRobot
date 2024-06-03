@@ -1,7 +1,7 @@
 # Franka Emika Robot with SAC+HER
 
 ## Overview:
-This project trains the franka emika robot using SAC + HER algorithm.
+This project trains the franka emika robot using SAC + HER algorithm.The goal of this project is to let the robot arm reach the position of the green dot.
 
 ## Overview of algorithm:
 - Humans have the ability to learn as much from achieving an undesired outcome as from the desired one.
