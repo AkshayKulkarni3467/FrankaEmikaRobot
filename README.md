@@ -10,6 +10,7 @@ This project trains the franka emika robot using SAC + HER algorithm.
 
 ## Before Training GIF:
 
+![trainvid gif](https://github.com/AkshayKulkarni3467/FrankaEmikaRobot/assets/129979542/03db03de-cf62-4138-835b-c920fedd20b5)
 
 ## After Training GIF:
 
