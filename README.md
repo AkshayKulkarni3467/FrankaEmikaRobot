@@ -14,7 +14,7 @@ This project trains the franka emika robot using SAC + HER algorithm.
 
 ## After Training GIF:
 
-
+![testvid gif](https://github.com/AkshayKulkarni3467/FrankaEmikaRobot/assets/129979542/1b931dc8-0d51-46be-bc8c-b3a17d6e9427)
 
 ## Loss and Reward curves:
 - Actor Loss
